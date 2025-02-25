@@ -4,6 +4,7 @@
 #include <MFRC522.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
+1
 
 #define Buzzer 17    // Buzzer on GPIO17
 #define LED_PIN 16   // LED on GPIO16
